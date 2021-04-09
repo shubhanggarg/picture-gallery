@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: crimson;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+#tit {
+    width: 600px;
+    height: 500px;
+}
+
+p {
+    font-size: 35px;
+}
+
+.container {}
+
+.container {}
